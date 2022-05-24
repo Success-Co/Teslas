@@ -1,3 +1,6 @@
 print ( 'simon' )
 print ( 'Ivo ' )
 print ( 'chidi' )
+print ( 'Si' )
+print ( 'Yu' )
+print ( 'Ken' )
